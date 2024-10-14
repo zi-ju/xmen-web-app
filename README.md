@@ -3,3 +3,6 @@ A Team X-Men web application that showcases up-to-date information on Marvel her
 
 # API
 REST API Comic Vine: https://comicvine.gamespot.com/api
+
+# Demo
+See screencast.mp4 for demo.
